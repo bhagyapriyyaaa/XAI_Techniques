@@ -135,8 +135,3 @@ jupyter notebook notebooks/3_Clustering_XAI.ipynb
   - Cluster 0: Low-value, potentially churned customers
   - Cluster 1: Mid-value, regular customers
   - Cluster 2: High-value, loyal customers
-
-## Author
-
-Bhagya Priya Murmu
-Indian Institute of Information Technology, Guwahati
