@@ -1,4 +1,3 @@
-# XAI_Techniques
 # XAI Techniques for Different Machine Learning Models
 
 This repository contains the implementation of various Explainable AI (XAI) techniques applied to different types of machine learning models including binary classification, anomaly detection, and clustering.
@@ -72,7 +71,7 @@ By integrating methods such as Permutation Feature Importance, Anchor Explanatio
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/xai-techniques.git
+git clone https://github.com/bhagyapriyyaaa/xai-techniques.git
 cd xai-techniques
 ```
 
@@ -136,14 +135,6 @@ jupyter notebook notebooks/3_Clustering_XAI.ipynb
   - Cluster 0: Low-value, potentially churned customers
   - Cluster 1: Mid-value, regular customers
   - Cluster 2: High-value, loyal customers
-
-## Acknowledgements
-
-This project was developed as part of a technical project under the guidance of Dr. Rakesh Matam at the Indian Institute of Information Technology, Guwahati.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 
